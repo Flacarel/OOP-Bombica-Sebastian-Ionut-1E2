@@ -1,0 +1,6 @@
+﻿  Math.cpp
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 3\Problema 1\Math.cpp(15,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 3\Problema 1\Math.cpp(19,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 3\Problema 1\Math.cpp(31,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 3\Problema 1\Math.cpp(35,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Problema 1.vcxproj -> D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 3\Problema 1\Debug\Problema 1.exe
