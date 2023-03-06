@@ -2,7 +2,7 @@
 class Canvas {
 	int height;
 	int width;
-	char a[100][100];
+	char** a = nullptr;
 public:
 	Canvas(int width, int height);
 	void DrawCircle(int x, int y, int ray, char ch);

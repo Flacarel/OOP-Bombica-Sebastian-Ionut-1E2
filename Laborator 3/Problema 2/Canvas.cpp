@@ -3,11 +3,16 @@
 #include <cstring>
 #include <stdio.h>
 using namespace std;
-Canvas::Canvas(int width,int height) :width(width), height(height)
+Canvas::Canvas(int width,int height) 
 {
+    this->width = width;
+    this->height = height;
+    this->a = (char**)malloc((height + 1) * sizeof(char*));
+    for (int i = 0; i < height + 1; i++)
+        this->a[i] = (char*)malloc((width + 1 )* sizeof(char));
     for (int i = 0;i < height;i++)
         for (int j = 0;j < width;j++)
-            this->a[i][j] = ' ';
+            a[i][j] = 32;
 }
 void Canvas::DrawLine(int x1, int y1, int x2, int y2, char ch) {
 
