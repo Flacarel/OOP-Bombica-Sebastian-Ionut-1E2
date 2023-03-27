@@ -1,0 +1,41 @@
+﻿  BMW.cpp
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\BMW.cpp(6,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\BMW.cpp(10,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\BMW.cpp(21,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\BMW.cpp(25,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Circuit.cpp
+  Fiat.cpp
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Fiat.cpp(6,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Fiat.cpp(10,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Fiat.cpp(21,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Fiat.cpp(25,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  RangeRover.cpp
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\RangeRover.cpp(5,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\RangeRover.cpp(9,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\RangeRover.cpp(20,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\RangeRover.cpp(24,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\RangeRover.cpp(35,24): warning C4305: '=': truncation from 'double' to 'float'
+  Seat.cpp
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Seat.cpp(6,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Seat.cpp(10,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Seat.cpp(21,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Seat.cpp(25,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Volvo.cpp
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Volvo.cpp(14,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Volvo.cpp(18,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Volvo.cpp(29,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Volvo.cpp(33,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Volvo.cpp(44,24): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Volvo.cpp(35): warning C4715: 'Volvo::GetFuelConsumption': not all control paths return a value
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Volvo.cpp(20): warning C4715: 'Volvo::GetAverageSpeed': not all control paths return a value
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Seat.cpp(12): warning C4715: 'Seat::GetAverageSpeed': not all control paths return a value
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Seat.cpp(27): warning C4715: 'Seat::GetFuelConsumption': not all control paths return a value
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\RangeRover.cpp(11): warning C4715: 'RangeRover::GetAverageSpeed': not all control paths return a value
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\RangeRover.cpp(26): warning C4715: 'RangeRover::GetFuelConsumption': not all control paths return a value
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Fiat.cpp(27): warning C4715: 'Fiat::GetFuelConsumption': not all control paths return a value
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Fiat.cpp(12): warning C4715: 'Fiat::GetAverageSpeed': not all control paths return a value
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\BMW.cpp(12): warning C4715: 'BMW::GetAverageSpeed': not all control paths return a value
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\BMW.cpp(27): warning C4715: 'BMW::GetFuelConsumption': not all control paths return a value
+  Problema 1.vcxproj -> D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 6\Problema 1\Debug\Problema 1.exe
