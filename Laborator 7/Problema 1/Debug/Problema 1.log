@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 7\Problema 1\main.cpp(10,10): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 7\Problema 1\main.cpp(11,10): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+  Problema 1.vcxproj -> D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 7\Problema 1\Debug\Problema 1.exe

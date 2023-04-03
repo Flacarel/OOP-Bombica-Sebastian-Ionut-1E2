@@ -1,0 +1,15 @@
+﻿  main.cpp
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 7\Problema 2\tree.h(51,38): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 7\Problema 2\tree.h(35): message : while compiling class template member function 'void tree<int>::add_node(tree<int>::node *,T)'
+          with
+          [
+              T=int
+          ]
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 7\Problema 2\main.cpp(11): message : see reference to function template instantiation 'void tree<int>::add_node(tree<int>::node *,T)' being compiled
+          with
+          [
+              T=int
+          ]
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 7\Problema 2\main.cpp(10): message : see reference to class template instantiation 'tree<int>' being compiled
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 7\Problema 2\tree.h(162): warning C4715: 'tree<int>::find': not all control paths return a value
+  Problema 2.vcxproj -> D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 7\Problema 2\Debug\Problema 2.exe
