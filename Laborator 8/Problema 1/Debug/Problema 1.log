@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 8\Problema 1\main.cpp(14,22): warning C4018: '<': signed/unsigned mismatch
+D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 8\Problema 1\main.cpp(22,22): warning C4018: '<': signed/unsigned mismatch
+  Problema 1.vcxproj -> D:\oop\OOP-Bombica-Sebastian-Ionut-1E2\Laborator 8\Problema 1\Debug\Problema 1.exe
